@@ -1,0 +1,66 @@
+#one {
+    width: 93vh;
+    border-style: solid;
+    padding: 1vh;
+    margin: 2vh;
+}
+#purple {
+    background-color: rgb(138, 43, 226);
+    display: inline-block;
+    width: 4.5vh;
+    height: 13.5vh;
+}
+#green {
+    background-color: rgb(34, 139, 34);
+    display: inline-block;
+    width: 36vh;
+    height: 18vh;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#blue {
+    background-color: rgb(135, 206, 235);
+    border-radius: 9vh;
+    display: inline-block;
+    width: 18vh;
+    height: 18vh;
+}
+
+#two {
+    width: 95vh;
+    height: 31vh;
+    border-style: dotted;
+    margin: 2vh;
+}
+#tan {
+    background-color: rgb(255, 250, 205);
+    display: inline-block;
+    width: 86vh;
+    height: 21vh;
+    text-align: center;
+    margin: 5vh;
+    box-shadow: 1vh 1vh 1vh rgb(64, 64, 64);
+}
+
+#three {
+    width: 95vh;
+    height: 34vh;
+    text-align: center;
+    margin: 2vh;
+}
+#hello {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-width: 0.1vh;
+    padding: 14vh;
+    padding-top: 13vh;
+    padding-bottom: 13vh;
+    font-size: 120%;
+    font-weight: bold;
+    letter-spacing: 6px;
+    color: rgb(0, 0, 128);
+    box-shadow: 0.5vh 0.5vh 1vh rgb(198, 198, 198);
+}
